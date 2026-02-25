@@ -14,11 +14,11 @@ src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gi
 ## 🚀 About Me
 - 🎓 **B.Tech in Information Technology (2022–2026)**
 - 🏫 **GL Bajaj Institute of Technology & Management, Greater Noida**
-- 💼 **Software Developer Intern at MindMash Data Labs**
-- 🌱 Currently focusing on **Core Java, Spring Boot, SQL & Backend Development**
-- 🔭 Working on **eGyan Portal (Java, JSP, Servlet, MySQL)**
+- 💼 Currently working as a **Software Developer Intern at MindMash Data Labs**
+- 💻 Skilled in **HTML, CSS, Bootstrap, JavaScript, React.js, Java & SQL**
+- 🌱 Focused on building scalable web applications using modern technologies
 - 👯 Open to **student & open-source collaborations**
-- 📫 Reach me at **anurag.mishra@mindmash.com**
+- 📫 Reach me at **anurag.mishra@mindmashlabs.com**
 - ⚡ Fun fact: *I enjoy building backend logic and solving real-world problems*
 
 ---
